@@ -1,3 +1,5 @@
+window.WeinreServerURL = "http://10.1.10.205:8888/";
+
 /*
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
